@@ -3,6 +3,7 @@
 /* Starter CSS for Flyout Menu */
 html,body{
   background: white;
+  -webkit-filter:invert(100%);
 }
 #mySidenav,
 #mySidenav ul,
@@ -218,7 +219,7 @@ html,body{
   top: 5px;
   padding: 10px;
   height: 60px;
-  font-family: Brush Script MT, cursive;
+  font-family: "Courier New", Courier, monospace;
   text-align: center;
   border-style: double;
   border-color: gray;
